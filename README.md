@@ -34,3 +34,7 @@ Once you've submitted the invoice, refresh the page. It might take a few moments
 
 Important Notes
 Initial Load Time: The first time you use the app, loading all invoices from the blockchain might take some time. Please wait while the data is being fetched.
+
+
+  <img align="center"  src="https://github.com/divyarang24/Soroban_invoice_app/edit/main//public/Screenshot from 2024-05-23 11-35-31.png" width="500" height="600" />
+
